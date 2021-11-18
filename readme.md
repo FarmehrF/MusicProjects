@@ -11,7 +11,7 @@ Floppy Drive Setup](https://www.youtube.com/watch?v=Es8kmUpia5M)
 
 
 ## Floppy Pin Outs
-![Pin Outs](http://marcosim.homepc.it:8080/sites/Marco/FloppyArduino/index.php/downloads/Floppy_Pinout.pdf)
+- [Pin Outs Pdf](http://marcosim.homepc.it:8080/sites/Marco/FloppyArduino/index.php/downloads/Floppy_Pinout.pdf)
 - [Pin Outs](https://ardent-tool.com/floppy/Floppy_Pinouts.html)
 - [Toshiba Fourms](http://www.interfacebus.com/PC_Floppy_Drive_PinOut.html)
 ## Arduino & Floppy
