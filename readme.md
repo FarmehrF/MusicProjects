@@ -2,6 +2,8 @@
 
 [Jeri Ellsworth Setup](https://youtu.be/Xpr7B-7BFP4)
 
+![https://img.youtube.com/vi/Xpr7B-7BFP4/mqdefault.jpg](https://youtu.be/Xpr7B-7BFP4)
+
 ![http://www.openmusiclabs.com/projects/floppy-audio/the-basics-how-it-works/index.html](http://mux.papercanary.org/images/floppy_for_web1.gif)
 
 [Daniel McAnulty](https://www.youtube.com/watch?v=3axIA4QgpnQ)
