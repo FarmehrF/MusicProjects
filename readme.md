@@ -24,3 +24,4 @@
 ## Arduino & Floppy
 - [ArduinoFDC Library](https://github.com/dhansel/ArduinoFDC)
 - [Arduino Floppy Drive Pins Video](https://www.youtube.com/watch?v=D2iswCnV9ec)
+- [Moppy](https://github.com/Sammy1Am/Moppy2)
