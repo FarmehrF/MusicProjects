@@ -7,7 +7,7 @@
 
 ![Daniel McAnulty Setup](https://beta.techcrunch.com/wp-content/uploads/2010/04/floppy_continuous-620x401.gif)
 
-Floppy Drive Setup](https://www.youtube.com/watch?v=Es8kmUpia5M)
+[Floppy Drive Setup](https://www.youtube.com/watch?v=Es8kmUpia5M)
 
 
 ## Floppy Pin Outs
