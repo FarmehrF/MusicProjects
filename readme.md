@@ -1,10 +1,9 @@
 # Floppy Drive Tape Delay
 
 [Jeri Ellsworth Setup](https://youtu.be/Xpr7B-7BFP4)
- - ![http://www.openmusiclabs.com/projects/floppy-audio/the-basics-how-it-works/index.html](http://mux.papercanary.org/images/floppy_for_web1.gif)
+![http://www.openmusiclabs.com/projects/floppy-audio/the-basics-how-it-works/index.html](http://mux.papercanary.org/images/floppy_for_web1.gif)
 
 [Daniel McAnulty](https://www.youtube.com/watch?v=3axIA4QgpnQ)
-
 ![Daniel McAnulty Setup](https://beta.techcrunch.com/wp-content/uploads/2010/04/floppy_continuous-620x401.gif)
 
 [Floppy Drive Setup](https://www.youtube.com/watch?v=Es8kmUpia5M)
