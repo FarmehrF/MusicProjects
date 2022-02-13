@@ -25,3 +25,31 @@
 - [ArduinoFDC Library](https://github.com/dhansel/ArduinoFDC)
 - [Arduino Floppy Drive Pins Video](https://www.youtube.com/watch?v=D2iswCnV9ec)
 - [Moppy](https://github.com/Sammy1Am/Moppy2)
+
+## Floppy Projects
+#### [Concerto for floppy disks](https://dogenigt.blogspot.com/2012/11/concerto-for-floppy-disks.html)
+
+[Youtube Video](https://youtu.be/5akuGrnOTVw)  
+
+![Diagrams](https://4.bp.blogspot.com/-XKtDeMVtQJY/UsIhrhzPBvI/AAAAAAAACEg/y96LTSQHMAI/s640/floppydiagram.png)
+
+### Open Music Labs Forums
+- [Read and Write Head Configurations](http://forums.openmusiclabs.com/viewtopic.php?f=11&t=92)
+
+> ![](http://farm6.static.flickr.com/5202/5362140475_face59c2c5_z.jpg)
+> Back when it was worth trying to fix floppy drives they provided this diagram and gave the proper resistance for each coil and how they should look when you were probing each section. I went ahead and labeled these since you'll have to figure out what part is which on your own.  
+  
+> A couple of useful observations: The resistance between A and C should be the same as the resistance between A->B and B->C added together. or:  
+A->C = (A->B) + (B->C)  
+also:  
+A->D = (A->B) + (B->D)  
+and:  
+C->D = (C->B) + (B->D)  
+  
+> I made a little chart for each head I was working on and then labeled each connection so that I would know what it should look like. It doesn't have to be pretty, this is how mine looked:
+> ![](http://farm6.static.flickr.com/5168/5362272961_95235767d1_z.jpg)
+- [Adjusting Motor Speed](http://forums.openmusiclabs.com/viewtopic.php?f=11&t=214)
+- [Open Music Labs Index](http://forums.openmusiclabs.com/viewforum.php?f=11)
+
+### Floppy Project Inspirations
+[Floppy Drive Audio Sampler](https://kaput.retroarchive.org/sampler/)
